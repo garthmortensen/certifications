@@ -1,6 +1,6 @@
 # About
 
-Because I like them. They give me a structured base to build on, fill in gaps, and sometimes add depth to what I already know.
+Why the certifications? Because I like them. They give me a structured base to build on, fill in gaps, and sometimes add depth to what I already know.
 
 * AWS Cloud Practitioner
 * Google Analytics 
